@@ -12,8 +12,8 @@ This repository contains an interactive **Power BI dashboard** that analyzes Ama
 ## 📊 Dashboard Summary
 
 The dashboard provides a high-level overview of key business metrics:
+<img width="1343" height="751" alt="image" src="https://github.com/user-attachments/assets/a3c9254f-44a1-488e-afc3-a4f1de74f31a" />
 
-<img width="1413" height="725" alt="image" src="https://github.com/user-attachments/assets/1b079162-47a8-4a8c-8b3c-672239635202" />
 
 | Metric               | Value   |
 |----------------------|---------|
