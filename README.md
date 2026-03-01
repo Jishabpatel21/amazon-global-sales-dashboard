@@ -127,10 +127,3 @@ Larger orange bubbles indicate higher sales density, especially in:
 
 ---
 
-## 📬 Contact
-
-**Jishab Patel**  
-📧 jishabpatel21@gmail.com  
-📍 Greater Noida, India
-
----
