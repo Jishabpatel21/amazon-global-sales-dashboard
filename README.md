@@ -127,13 +127,6 @@ Larger orange bubbles indicate higher sales density, especially in:
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome!  
-Feel free to **fork** the repository and submit a **pull request** with improvements, bug fixes, or additional visualizations.
-
----
-
 ## 📬 Contact
 
 **Jishab Patel**  
